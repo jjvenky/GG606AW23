@@ -1,0 +1,85 @@
+---
+title: "Assignments"
+---
+
+## Assignment 1 - Importing, parsing, and querying data in the wild
+
+The National Earthquake Information Center (NEIC) determines the location and size of all significant earthquakes that occur worldwide and disseminates this information immediately to national and international agencies, scientists, critical facilities, and the general public. The NEIC compiles and provides to scientists and to the public an extensive seismic database that serves as a foundation for scientific research through the operation of modern digital national and global seismograph networks and cooperative international agreements. The NEIC is the national data center and archive for earthquake information.
+
+This [dataset](database.csv) includes a record of the date, time, location, depth, magnitude, and source of every earthquake with a reported magnitude 5.5 or higher since 1965.
+
+You can use this [Rmd file](GG606_assignment_1_sample.Rmd) as a template. Rstudio (now posit) has some easy to follow lessons on RMarkdown <https://rmarkdown.rstudio.com/lesson-1.html> . We will briefly discuss Rmarkdown in class.
+
+Your assignment should answer the following questions and be as reproducible as you can make it (i.e., I should be able to reproduce your answers).This means that you must read data in from a URL so that I can replicate your work, do not include any external data files in your submission, only submit one .Rmd file. You can use external data to supplement your anlayses if you want to. For each answer provide a short write up explaining the approach you took to the question. There are not necessarily correct answers, and I expect your answers to vary from classmates, however you should be able to provide a clear illustration via your code of how you arrived at the conclusion you did.
+
+Questions:
+
+-   Read the data in and clean it for analysis, using the readr package functions for reading and parsing data. \[5 marks\]
+
+-   Did more earthquakes happen on weekends or weekdays? Include a figure \[5 marks\]
+
+-   Has there been any change in the frequency of earthquakes? Include a figure \[5 marks\]
+
+-   Where were there more earthquakes in the 1980s, South America or North America? Include a figure \[5 marks\]
+
+-   Has there been any geographic shifts in the distribution of earthquakes? \[10 marks\] Include a figure
+
+-   Comment on how lessons from Wilke's Fundamentals of Data Visualization were applied to each figure with specific reference to book sections \[5 marks\]
+
+## Assignment 2 - Real world data wrangling
+
+The Canadian Census from 2021 will soon be released and made available to the public. You will analyze Canadian census data for this assignment. However, the real goal of this assignment is to get you familiar with the process of learning a new R package. More than anything - the R landscape of packages is quickly changing and being able to learn about, understand, and use new packages is a vital skill for scientific data wrangling. Often, new published papers will have related R packages and may or may not have clear documentation or vignettes (which are best for getting up and running). Evaluating an R package requires quickly ascertaining whether a package can do what you need it to, how to format data for it, what outputs are generated, and what parameters need to be set/configured. There is very little standardization across R packages (outside of the tidyverse) so this step of evaluation can take some time.
+
+Your goal for this assignment is to get up and running with the cancensus package. You can learn more about the cancensus package here: <https://mountainmath.github.io/cancensus/index.html>
+
+To submit for this assignment: a reproducible RMarkdown file that develops an analysis of census data for a geographical location in Canada of interest to you. You are free to incorporate external data from other sources if you wish, but the focus should be on data that are in the census. The geography of interest must meet the following criteria:
+
+-   has a name that starts with same letter as your first name or last name;
+
+-   is comprised of at least 30 geographic units; and
+
+-   is somewhere that you have not personally visited.
+
+The analysis may focus on traditional census themes like population change or dive deep into more specific demographic or regional questions. Your analysis should present a coherent data story, and should mix visualizations and written interpretations of your analysis. You must include all R code for reproducing your report, however do not have to show all of the code in the output in the final report (i.e. you can have echo=FALSE in some of your code chunks if you want them hidden from the output - learn how to use chunk options in RStudio <https://rmarkdown.rstudio.com/lesson-3.html> ). Focus on quality over quantity, only include analysis which contributes to your overall narrative, do not include every type of graph or model you explored.
+
+Marks will be reserved for detailed comment on how lessons from Wilke's [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) were applied to each figure.
+
+## Analytics Demo
+
+Students will work on a major project which will require a technical overview of an analysis of their choosing. None of the data used in this analysis can come from the student's own research group. This will be presented in the last weeks of the course as a technical demonstration in class.
+
+The goal of this project is to demonstrate a technical topic to an audience in an interesting way. Being able to communicate technical details in accessible ways is a critical skill for working with collaborators on scientific projects. People need to know what you did, what decisions were made and why, how they affected the outcome, and potential issues or shortcomings in the approach taken. While peer-review is one part of the scientific knowledge production process - increasingly it is not sufficient to just describe your methods in a paper, but these must be presented as supplementary code or a notebook which documents exact data processing steps.
+
+Your task for the term project is to provide a complete analytic walk-through of an existing analysis from a paper in an area of interest (i.e., replicated by you but not from your research group) or through a demonstration of a specialized statistical or analysis method through the use of R packages. If you are demoing a method this must be a completely new demonstration and ideally will compare and contrast multiple packages, not simply a rehashing of an existing tutorial or vignette. Please consult with me to confirm your chosen topic.
+
+-   Demonstration: In this part of the project your goal is to articulate as clearly as possible to a scientific but non-specialized audience the full scope of your analysis. This should comprise about half of your written report and about 70% of your presentation/overview in class.
+
+-   Critique: In this part of the project you should critically analyze the analysis and/or methods implemented in the package. Focus here on issues of data quality, uncertainty, key parameters, workflow, etc. Your aim here is to provide a critical overview of the methods and analysis presented so as to provide guidance and advice to scientific collaborators.
+
+-   Submission: The term project here is comprised of a written report and an in-class demonstration. The report will be worth 65 points according to the following breakdown:
+
+-   Technical depth ‒ /40
+
+-   Critique ‒ /25
+
+-   Accuracy ‒ /20
+
+-   Writing style ‒ /15
+
+-   The presentation will be worth 35 points and graded according to the following breakdown:
+
+-   Aesthetic appeal ‒ /25
+
+-   Clarity and communication style ‒ /25
+
+-   Technical completeness ‒ /50
+
+The report should be no longer than 4000 words. The presentation should be between 13-15 minutes. The presentation file will not be submitted for grading.
+
+## Participation
+
+Students will be expected to attend and participate in designated course times. Participate includes contributing to discussions, presenting small pieces of weekly homework, and working collaboratively with other students when needed.
+
+## Course Notebook
+
+Students will keep a notebook to keep track of their learning throughout the course. These can be as digital or hardcopy, and will be graded at the end of the course for depth and quality of notes, and coverage of topics covered in the course. Hardcopy notebooks will be returned to students after grading.

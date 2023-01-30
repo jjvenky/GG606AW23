@@ -1,0 +1,24 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "GG606 Winter 2023"
+  favicon: "favicon.png"
+  author: "Jason Venkiteswaran"
+  date: "2023-01-09"
+  chapters:
+    - index.qmd
+    - wrangling.qmd
+    - practice.qmd
+    - assignments.qmd
+#    - term-project.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: style.css
+    toc: true
+
+editor: visual
+

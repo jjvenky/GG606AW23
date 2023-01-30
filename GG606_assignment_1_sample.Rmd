@@ -1,0 +1,66 @@
+---
+title: "GG606 - Assignment 1"
+author: "Student Name"
+date: "`r paste(format(Sys.Date(), '%Y-%m-%d'))`"
+output: html_document
+---
+
+
+## Assignment 1 - Importing, parsing, and querying data in the wild
+
+1. Read the data in and clean it for analysis, used the `readr` package functions for reading and parsing data. \[5 marks\]
+
+My answer is written here and is explains what I did and why.
+
+```{r echo=TRUE}
+#code 
+#***********************************
+library(readr)
+
+
+```
+
+2. Did more earthquakes happen on weekends or weekdays? \[5 marks\]
+```{r echo=TRUE}
+#code 
+#***********************************
+
+
+
+```
+The above analysis demonstrates...
+
+
+3. Has there been any change in the frequency of earthquakes? \[5 marks\]
+```{r echo=TRUE}
+#code 
+#***********************************
+
+
+
+```
+The above analysis demonstrates...
+
+
+4. Where were there more earthquakes in the 1980s, South America or North America? \[5 marks\]
+```{r echo=TRUE}
+#code 
+#***********************************
+
+
+
+```
+The above analysis demonstrates...
+
+
+5. Has there been any geographic shifts in the distribution of earthquakes? \[10 marks\]
+```{r echo=TRUE}
+#code 
+#***********************************
+
+
+
+```
+The above analysis demonstrates...
+
+

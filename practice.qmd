@@ -1,0 +1,21 @@
+---
+title: "Data Wrangling in Practice"
+---
+
+## Pipes and functions
+
+### Reading this week
+
+R4Ds Chapters [17](https://r4ds.had.co.nz/program-intro.html), [18](https://r4ds.had.co.nz/pipes.html), [19](https://r4ds.had.co.nz/functions.html)
+
+## Functions
+
+### Reading this week
+
+[R4Ds Chapter 19 Functions](https://r4ds.had.co.nz/functions.html)
+
+## Functions, more functions and packages
+
+### Reading this week
+
+Hart EM, Barmby P, LeBauer D, Michonneau F, Mount S, Mulrooney P, et al. 2016. Ten Simple Rules for Digital Data Storage. PLoS Comput Biol12(10): e1005097, DOI: [10.1371/journal.pcbi.1005097](https://doi.org/10.1371/journal.pcbi.1005097)

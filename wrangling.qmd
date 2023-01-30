@@ -1,0 +1,81 @@
+---
+title: "Wrangling"
+---
+
+## Intro, Data vis
+
+This week will provide an introduction to data science using `R`. You will be introduced to data science through the lens of exploratory data analysis, beginning with the *Explore* section of the R4DS textbook, read and work through the following chapters:
+
+### Reading this week
+
+-   [R4DS Chapter 2 Introduction](https://r4ds.had.co.nz/explore-intro.html)
+
+-   [R4DS Chapter 4 Dta vis](https://r4ds.had.co.nz/data-visualisation.html)
+
+-   [R4DS Chapter 3 Workflow basics](https://r4ds.had.co.nz/workflow-basics.html)
+
+-   [palmerpenguins](https://allisonhorst.github.io/palmerpenguins/) package homework
+
+## Data workflows
+
+This week will cover the surprisingly important topic of data workflows including input and output. In the *Wrangle* section of the textbook, read and work through the following chapters:
+
+### Reading this week
+
+-   [R4DS Chapter 6 Workflow scripts](https://r4ds.had.co.nz/workflow-scripts.html)
+
+-   [R4DS Chapter 8 Workflow projects](https://r4ds.had.co.nz/workflow-projects.html)
+
+-   Wickham. 2014. Tidy Data. Journal of Statistical Software, 59(10), 1--23. DOI: [10.18637/jss.v059.i10](https://doi.org/10.18637/jss.v059.i10)
+
+-   [here](https://here.r-lib.org/) package homework
+
+-   Jenny Bryan's view on [project-oriented workflows](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/)
+
+## Data transformations and wrangling
+
+This week will cover changing, creating, reordering variables in order to wrangle and organise data. Ideas of wider data vs longer data (and messy) are important here too.
+
+### Reading this week
+
+-   [R4DS Chapter 5 Data transformation](https://r4ds.had.co.nz/transform.html)
+
+-   R4DS Chapter [9](https://r4ds.had.co.nz/wrangle-intro.html), [10](https://r4ds.had.co.nz/tibbles.html), [11](https://r4ds.had.co.nz/data-import.html), [12](https://r4ds.had.co.nz/tidy-data.html)
+
+-   Karl W. Broman & Kara H. Woo (2018) Data Organization in Spreadsheets, The American Statistician, 72:1, 2-10, DOI: [10.1080/00031305.2017.1375989](https://doi.org/10.1080/00031305.2017.1375989)
+
+## Exploration, data types
+
+This will continue to cover more wrangling and dealing with varying data types.
+
+### Reading this week
+
+-   R4DS Chapter [9](https://r4ds.had.co.nz/wrangle-intro.html), [10](https://r4ds.had.co.nz/tibbles.html), [11](https://r4ds.had.co.nz/data-import.html), [12](https://r4ds.had.co.nz/tidy-data.html) continued
+
+-   Amelia McNamara & Nicholas J. Horton (2018) Wrangling Categorical Data in R, The American Statistician, 72:1, 97-104, DOI: [10.1080/00031305.2017.1356375](https://doi.org/10.1080/00031305.2017.1356375)
+
+-   [WHO example](https://r4ds.had.co.nz/tidy-data.html#case-study) in R4DS Chapter 12
+
+## Tidying data, data forms and formats
+
+This week will move from wrangling data to using and creating relational data, dealing with and using strings and [rexexps](https://en.wikipedia.org/wiki/Regular_expression), and ideas around categorical (aka factors) variables.
+
+### Reading this week
+
+-   [R4DS Chapter 13 Relational data](https://r4ds.had.co.nz/relational-data.html)
+
+-   [R4DS Chapter 14 Strings](https://r4ds.had.co.nz/strings.html)
+
+-   [R4DS Chapter 15 Factors](https://r4ds.had.co.nz/factors.html)
+
+-   Amelia McNamara & Nicholas J. Horton (2018) Wrangling Categorical Data in R, The American Statistician, 72:1, 97-104, DOI: [10.1080/00031305.2017.1356375](https://doi.org/10.1080/00031305.2017.1356375)
+
+## Dates, times, time series
+
+This week will cover everyone's favourites dates and times. Time series data are a special type of data where we may have to consider the temporal autocorrelation as well as the common push to produce [forecast](https://pkg.robjhyndman.com/forecast/)s and [fable](http://fable.tidyverts.org/)s.
+
+### Reading this week
+
+-   [R4DS Chapter 15 Factors](https://r4ds.had.co.nz/factors.html)
+
+-   [R4DS Chapter 16 Dates and times](https://r4ds.had.co.nz/dates-and-times.html)

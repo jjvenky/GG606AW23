@@ -1,0 +1,102 @@
+---
+title: "GG606 Scientific Data Wrangling"
+---
+
+# Introduction
+
+*Scheduled as Tuesdays 09:00--11:20, DAWB 3-105 (Dr Alvin Woods Building)*
+
+## Course Description
+
+This course covers the data science skills comprising data visualization, data wrangling (cleaning, combining, modelling, etc.), and methodological and statistical design, which are an important part of the scientific method.
+
+## Learning Objectives
+
+-   describe the characteristics of datasets in order to plan for data wrangling and visualisation
+
+-   develop workflows for dealing with disparate data types
+
+-   apply knowledge to tidy, transform, visualise, model datasets similar to thesis/project data
+
+-   develop a template for a reproducible workflow including metadata
+
+## Goals of the Course
+
+Skills and products developed in this course will be employed on models built on example data sets generated for each research chapter of each student's thesis/project, i.e. data sets that are messy, contain holes, and have different statistical distributions. Students will benefit from working with data flows they have developed and modified based on collaborative interactions with classmates via multi-user repositories.
+
+## Required Text
+
+-   Wickham H, Grolemund G. 2016. R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. O'Reilly Media. Chicago, available online at [http://r4ds.had.co.nz](http://r4ds.had.co.nz/){.uri}
+
+-   Timbers T-A, Campbell T, Lee M. 2021. Introduction to Data Science, available online at [https://datasciencebook.ca](https://datasciencebook.ca/){.uri}
+
+## Supplementary Readings
+
+-   Broman KW, Woo KH. 2018. Data Organization in Spreadsheets. The American Statistician 72(1): 2-10. <https://doi.org/10.1080/00031305.2017.1375989>
+
+-   Bryan J, et al. 2018. Happy Git and GitHub for the useR. <http://happygitwithr.com/>
+
+-   Hampton SE, Anderson SS, Bagby SC, Gries C, Han X, Hart EM, Jones MB, Lenhardt WC, MacDonald A, Michener WK, Mudge J, Pourmokhtarian A, Schildhauer MP, Woo KH, Zimmerman N. 2015. The Tao of open science for ecology. Ecosphere 6(7):120. <http://dx.doi.org/10.1890/ES14-00402.1>
+
+-   Hart EM, Barmby P, LeBauer D, Michonneau F, Mount S, Mulrooney P, et al. 2016. Ten Simple Rules for Digital Data Storage. PLoS Comput Biol12(10): e1005097. <https://doi.org/10.1371/journal.pcbi.1005097>
+
+-   Sixteen peer-reviewed journal articles in the PeerJ Collection, Practical Data Science for Stats: <https://peerj.com/collections/50-practicaldatascistats/>
+
+-   Wilke CO. 2019. Fundamental of Data Visualization: A Primer on Making Informative and Compelling Figures. O'Reilly Media. Chicago, <https://clauswilke.com/dataviz/>
+
+## Cheatsheets
+
+-   [Posit Cheatsheets](https://posit.co/resources/cheatsheets/)
+
+## Schedule
+
+| Week        | Topic                                | Tools |
+|:------------|:-------------------------------------|:------|
+| January 10  | Introduction, data visualisation     |       |
+| January 17  | Data workflows                       |       |
+| January 24  | Data transformations and wrangling   |       |
+| January 31  | Exploration, data types              |       |
+| February 7  | Tidying data, data forms and formats |       |
+| February 14 | Dates, times, time series            |       |
+| February 21 | Reading Week                         |       |
+| February 28 | Work Period & Catch Up               |       |
+
+: Wrangling
+
+| Week     | Topic                                  | Tools |
+|:---------|:---------------------------------------|:------|
+| March 7  | Pipes and functions                    |       |
+| March 14 | Functions, more functions and packages |       |
+| March 21 | Presentations                          |       |
+| March 28 | Presentations                          |       |
+
+: Data Wrangling in Practice
+
+## Evaluation
+
++---------------------+---------------+---------------+
+| Assessment          | Weighting     | Due Date      |
++=====================+===============+===============+
+| Assignments (2×15%) | 30%           | February 7\   |
+|                     |               | March 7       |
++---------------------+---------------+---------------+
+| Analytics Demo      | 40%           | March 21 & 28 |
++---------------------+---------------+---------------+
+| Participation       | 15%           |               |
++---------------------+---------------+---------------+
+| Course notebook     | 15%           |               |
++---------------------+---------------+---------------+
+| Total               | 100%          |               |
++---------------------+---------------+---------------+
+
+### Assignments
+
+Two assignments will require students to demonstrate data wrangling and visualisation skills learned in the course. Data sets will be provided.
+
+### Term Project
+
+Students will demonstrate a technical topic with a complete analytic walk-through of an existing analysis from a paper in an area of interest or through a demonstration of a specialized statistical or analysis method through the use of `R` packages.
+
+### Participation
+
+Students will be expected to attend and participate in designated course times. Participate includes contributing to discussions and working collaboratively with other students when needed.
