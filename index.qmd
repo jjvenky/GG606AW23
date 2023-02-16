@@ -50,25 +50,16 @@ Skills and products developed in this course will be employed on models built on
 
 ## Schedule
 
-+-------------+------------------------------------------------------------------------------+----------+
-| Week        | Topic                                                                        | Tools    |
-+:============+:=============================================================================+:=========+
-| January 10  | [Introduction, data visualisation](lecs/1-intro-data-vis.pdf)                |          |
-+-------------+------------------------------------------------------------------------------+----------+
-| January 17  | [Data workflows](lecs/2-workflows.pdf)                                       |          |
-+-------------+------------------------------------------------------------------------------+----------+
-| January 24  | [Data transformations and wrangling](lecs/3-transformations-wrangling.pdf)   |          |
-+-------------+------------------------------------------------------------------------------+----------+
-| January 31  | [Exploration, data types](lecs/4-exploration-data-types.pdf)                 |          |
-+-------------+------------------------------------------------------------------------------+----------+
-| February 7  | [Tidying data, data forms and formats](lecs/5-tidying-dataforms-formats.pdf) |          |
-+-------------+------------------------------------------------------------------------------+----------+
-| February 14 | [Dates, times, time series](lecs/6-factors-dates.pdf)                        |          |
-+-------------+------------------------------------------------------------------------------+----------+
-| February 21 | Reading Week                                                                 |          |
-+-------------+------------------------------------------------------------------------------+----------+
-| February 28 | Work Period & Catch Up                                                       |          |
-+-------------+------------------------------------------------------------------------------+----------+
+| Week        | Topic                                                                        | Tools |
+|:------------|:-----------------------------------------------------------------------------|:------|
+| January 10  | [Introduction, data visualisation](lecs/1-intro-data-vis.pdf)                |       |
+| January 17  | [Data workflows](lecs/2-workflows.pdf)                                       |       |
+| January 24  | [Data transformations and wrangling](lecs/3-transformations-wrangling.pdf)   |       |
+| January 31  | [Exploration, data types](lecs/4-exploration-data-types.pdf)                 |       |
+| February 7  | [Tidying data, data forms and formats](lecs/5-tidying-dataforms-formats.pdf) |       |
+| February 14 | [Dates, times, time series](lecs/6-factors-dates.pdf)                        |       |
+| February 21 | Reading Week                                                                 |       |
+| February 28 | Work Period & Catch Up                                                       |       |
 
 : Wrangling
 
@@ -83,20 +74,20 @@ Skills and products developed in this course will be employed on models built on
 
 ## Evaluation
 
-+---------------------+---------------+---------------+
-| Assessment          | Weighting     | Due Date      |
-+=====================+===============+===============+
-| Assignments (2×15%) | 30%           | February 7\   |
-|                     |               | March 7       |
-+---------------------+---------------+---------------+
-| Analytics Demo      | 40%           | March 21 & 28 |
-+---------------------+---------------+---------------+
-| Participation       | 15%           |               |
-+---------------------+---------------+---------------+
-| Course notebook     | 15%           |               |
-+---------------------+---------------+---------------+
-| Total               | 100%          |               |
-+---------------------+---------------+---------------+
++---------------------+-----------+---------------+
+| Assessment          | Weighting | Due Date      |
++=====================+===========+===============+
+| Assignments (2×15%) | 30%       | February 7\   |
+|                     |           | March 7       |
++---------------------+-----------+---------------+
+| Analytics Demo      | 40%       | March 21 & 28 |
++---------------------+-----------+---------------+
+| Participation       | 15%       |               |
++---------------------+-----------+---------------+
+| Course notebook     | 15%       |               |
++---------------------+-----------+---------------+
+| Total               | 100%      |               |
++---------------------+-----------+---------------+
 
 ### Assignments
 
