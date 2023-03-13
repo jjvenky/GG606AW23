@@ -72,12 +72,17 @@ Skills and products developed in this course will be employed on models built on
 
 : Wrangling
 
-| Week     | Topic                                                                    | Tools |
-|:---------|:-------------------------------------------------------------------------|:------|
-| March 7  | [Pipes and functions](lecs/7-pipes-functions.pdf)                        |       |
-| March 14 | [Functions, more functions and packages](lecs/08-functions-packages.pdf) |       |
-| March 21 | Presentations                                                            |       |
-| March 28 | Presentations                                                            |       |
++----------+----------------------------------------------------------------------------------------------------+---------+
+| Week     | Topic                                                                                              | Tools   |
++:=========+:===================================================================================================+:========+
+| March 7  | [Pipes and functions](lecs/7-pipes-functions.pdf)                                                  |         |
++----------+----------------------------------------------------------------------------------------------------+---------+
+| March 14 | [Functions, more functions and packages](lecs/08-functions-packages.pdf) & [Misc](lecs/9-misc.pdf) |         |
++----------+----------------------------------------------------------------------------------------------------+---------+
+| March 21 | Presentations                                                                                      |         |
++----------+----------------------------------------------------------------------------------------------------+---------+
+| March 28 | Presentations                                                                                      |         |
++----------+----------------------------------------------------------------------------------------------------+---------+
 
 : Data Wrangling in Practice
 
